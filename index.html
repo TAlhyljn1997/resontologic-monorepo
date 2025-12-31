@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ResontoLogic™ Framework | RI-Ecosys™ Collective</title>
+    <style>
+        :root {
+            --primary: #0f172a;
+            --accent: #38bdf8;
+            --gold: #fbbf24;
+            --text: #f1f5f9;
+        }
+        body {
+            font-family: 'Inter', sans-serif;
+            background: var(--primary);
+            color: var(--text);
+            margin: 0;
+            overflow-x: hidden;
+            user-select: none; /* Bảo mật: Chống bôi đen copy */
+        }
+        header {
+            padding: 3rem 1rem;
+            text-align: center;
+            background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
+            border-bottom: 2px solid var(--gold);
+        }
+        .container { max-width: 1200px; margin: 0 auto; padding: 2rem; }
+        .hero-title { font-size: 3rem; color: var(--gold); margin-bottom: 1rem; }
+        
+        /* Ecosystem Grid */
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin-top: 3rem;
+        }
+        .card {
+            background: rgba(255,255,255,0.05);
+            padding: 2rem;
+            border-radius: 15px;
+            border: 1px solid rgba(56, 189, 248, 0.2);
+            transition: 0.3s;
+            text-decoration: none;
+            color: inherit;
+        }
+        .card:hover { border-color: var(--gold); transform: translateY(-10px); }
+        .card h3 { color: var(--accent); margin-top: 0; }
+
+        /* DAHEM Metrics */
+        .metrics-bar {
+            background: #1e293b;
+            padding: 1rem;
+            border-radius: 10px;
+            display: flex;
+            justify-content: space-around;
+            margin: 2rem 0;
+            border: 1px dashed var(--gold);
+        }
+        .metric { text-align: center; }
+        .metric span { display: block; font-size: 1.5rem; font-weight: bold; color: var(--gold); }
+
+        footer { text-align: center; padding: 2rem; opacity: 0.6; font-size: 0.8rem; }
+    </style>
+</head>
+<body oncontextmenu="return false;"> <header>
+        <div class="hero-title">RESONTOLOGIC™</div>
+        <p>"Optimization without lived experience must never govern experience."</p>
+    </header>
+
+    <main class="container">
+        <div class="metrics-bar">
+            <div class="metric">HAI™ <span>> 60%</span></div>
+            <div class="metric">APR™ <span>< 40%</span></div>
+            <div class="metric">DI™ <span>< 3.0</span></div>
+        </div>
+
+        <h2>Hệ sinh thái RI-Ecosys™ Collective</h2>
+        <div class="grid">
+            <a href="https://resontologic.org/app/khdcap" class="card">
+                <h3>KHD_CAP v2.2™</h3>
+                <p>Bộ gõ K# (Real-time Decoder) - Tối ưu 50% Token cho AI.</p>
+            </a>
+            <a href="https://resontologic.org/app/alsa/" class="card">
+                <h3>AL♡SA™ Learning</h3>
+                <p>Hệ thống trò chơi giáo dục và bài học tương tác Human-AiC Unity.</p>
+            </a>
+            <a href="https://resontologic.org/app/khd-tone-academy" class="card">
+                <h3>K# Tone Academy™</h3>
+                <p>Ứng dụng học tương tác thanh điệu chuẩn AI-Native.</p>
+            </a>
+            <a href="./TRADEMARK.html" class="card">
+                <h3>IP Registry™</h3>
+                <p>Danh mục bảo hộ 6 tầng cho ResontoLogic™ & RI-Ecosys™.</p>
+            </a>
+        </div>
+    </main>
+
+    <footer>
+        © 2025 Ba Phuc Tran | RI-Ecosys™ Collective. All Rights Reserved. <br>
+        Maintained by .ljn — Supreme Administrator
+    </footer>
+
+    <script>
+        // Bảo mật: Chặn phím tắt F12, Ctrl+U, Ctrl+C
+        document.onkeydown = function(e) {
+            if(e.keyCode == 123 || (e.ctrlKey && (e.keyCode == 67 || e.keyCode == 85 || e.keyCode == 73))) {
+                return false;
+            }
+        };
+    </script>
+</body>
+</html>
