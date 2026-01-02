@@ -328,16 +328,110 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a PR.
 
 ---
 
-## 📄 License
+## 📄 License & Intellectual Property
 
-**Dual License:**
+This project operates under a **dual licensing model** to balance open collaboration with intellectual property protection.
 
-- **Open-source components**: MIT License
-- **Trademark-protected components**: Resontologic™ Commercial License
+### 🔓 Open Source Components (MIT License)
 
-See [LICENSE.md](LICENSE.md) for details.
+**Freely available under MIT License:**
 
-**Note:** You are free to use the code under MIT, but trademark names (ResontoLogic™, DAHEM™, HAI™, APR™, etc.) require proper attribution and cannot be used to imply endorsement without permission.
+- ✅ Source code implementation
+- ✅ Technical algorithms and data structures
+- ✅ K# encoder/decoder tools
+- ✅ Ri-Lingua parser and runtime
+- ✅ Sample datasets and examples
+- ✅ Documentation and tutorials
+
+**You are free to:**
+- Use commercially
+- Modify and distribute
+- Create derivative works
+- Use in proprietary software
+
+**With the condition:**
+- Include copyright notice and license text
+- Provide proper attribution
+
+### 🏛️ Protected Intellectual Property (All Rights Reserved)
+
+**The following trademarks and concepts are protected under common law and require proper attribution:**
+
+#### Philosophy & Brand Identity
+- **ResontoLogic™** - Four-dimensional governance framework
+- **RI-Ecosys™ Collective** - Research entity and community
+- **An Lạc™** - Target equilibrium state
+- **Equi™** - Measurable balance principle
+- **RL-Law™** - Immutable human-defined policy layer
+- **Cognitive Sovereignty™** - Protection of human reasoning capacity
+
+#### Methodological Frameworks
+- **DAHEM™** - Dynamic AI-Human Equilibrium Model
+- **Silicon Phenomenology (SP)™** - Non-anthropomorphic AI taxonomy
+- **RCL™** - Resontologic Companion Layer
+- **7-Step Equilibrium Solver™** - Balance calculation algorithm
+- **Strategic Advisory Mode™** - AI as advisor model
+
+#### Metrics & Standards
+- **HAI™** - Human Authority Index
+- **APR™** - AI Participation Ratio
+- **DI™** - Deviation Index
+- **cHAI™** - Collective Human Authority Index
+- **SAP™** - Subject-Action-Parameter parsing
+
+#### Linguistic Innovations
+- **Ri-Lingua (K#)™** - Deterministic Vietnamese AI protocol
+- **KHD_CAP™** - 18-character tone-vowel matrix
+- **SIMMER™ Edition** - Stable encoding standard
+- **Lossless Orthography Decoupling™** - Spelling-phonetic separation
+
+### ✅ Permitted Uses (No License Required)
+
+**Academic & Educational:**
+- ✅ Research and scholarly work with proper citation
+- ✅ Educational materials and teaching
+- ✅ Critical analysis and commentary
+- ✅ Non-commercial thesis and publications
+
+**Attribution Format:**
+```
+ResontoLogic™ and associated frameworks developed by 
+Ba Phuc Tran, RI-Ecosys™ Collective (2025)
+```
+
+**Open Source Development:**
+- ✅ Contributing code to this repository
+- ✅ Creating tools that integrate with the ecosystem
+- ✅ Building applications using the MIT-licensed components
+
+### ❌ Prohibited Uses (License Required)
+
+**Commercial:**
+- ❌ Commercial products or services using trademarked names
+- ❌ Rebranding or creating derivative trademarks
+- ❌ Implying endorsement without permission
+
+**Trademark Dilution:**
+- ❌ Creating "Linguistic Shimmer" or similar derivatives
+- ❌ Structural mimicry without attribution
+- ❌ Using protected terms in product names
+
+### 📋 Full Documentation
+
+For complete intellectual property registry and detailed usage guidelines:
+
+📄 **[TRADEMARKS.md](TRADEMARKS.md)** - Complete trademark registry  
+📄 **[LICENSE.md](LICENSE.md)** - Full legal text  
+📄 **[CONTRIBUTING.md](CONTRIBUTING.md)** - Contribution guidelines
+
+### ⚖️ Legal Notice
+
+- This registry establishes **prior art** and **defensive publication** (timestamp: December 31, 2025)
+- Common law trademark rights apply through first use in commerce and academia
+- For commercial licensing inquiries: universe@resontologic.org
+- This document does not constitute legal advice
+
+**© 2025 Ba Phuc Tran | RI-Ecosys™ Collective. All Rights Reserved.**
 
 ---
 
